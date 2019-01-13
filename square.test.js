@@ -5,7 +5,7 @@ test('square(1) should return -1', () => {
 });
 
 test('square ("abcd") shoud return 16', () => {
-    expected(square("ciao").toBe(16));
+    expected(square('ciao').toBe(16));
 });
 
 test('square(null) shoud return -1', () => {
