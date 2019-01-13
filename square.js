@@ -1,5 +1,5 @@
 function square(s){
-    if(typeofs == "string"){
+    if(typeof s == "string"){
         return length(s)*length(s);
     }else{
         return -1;
