@@ -19,6 +19,7 @@
   "homepage": "https://github.com/MatteoLuca98/prova2#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "expect.js": "^0.3.1",
     "express": "^4.16.4",
     "jquery": "^3.3.1",
     "supertest": "^3.3.0",
@@ -31,5 +32,5 @@
   "jest": {
     "verbose": true,
     "collectCoverage": true
- }
+  }
 }
