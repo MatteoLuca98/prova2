@@ -1,4 +1,4 @@
-function sqaure(s){
+function square(s){
     if(typeofs == "string"){
         return length(s)*length(s);
     }else{
