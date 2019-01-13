@@ -1,4 +1,4 @@
-const expect = require('supertest');
+const request = require('supertest');
 const app = require('./app')
 
 test('GET /?string=somestring should return 200', async () => {
